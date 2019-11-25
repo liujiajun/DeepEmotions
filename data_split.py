@@ -2,7 +2,7 @@ import os
 import shutil
 import random
 
-dataset_dir = '/Users/wuchu/Documents/UROP/DeepEmotions/dataset'
+dataset_dir = '/Users/wuchu/Documents/UROP/DeepEmotions/fer'
 train_dir = '/train'
 test_dir = '/test'
 valid_dir = '/valid'
